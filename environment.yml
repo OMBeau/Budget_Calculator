@@ -3,3 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - appmode
+  - xlrd>=1.2.0
+  - pandas>=0.25.2
+  - ipywidgets>=7.5.1
