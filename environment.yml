@@ -1,6 +1,6 @@
 
-channels:
-  - conda-forge
+# channels:
+#   - conda-forge
 dependencies:
   - appmode
   - xlrd>=1.2.0
